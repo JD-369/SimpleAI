@@ -2,4 +2,3 @@ streamlit
 together
 python-dotenv
 asyncio
-curl
