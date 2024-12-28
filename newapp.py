@@ -2,7 +2,7 @@ import streamlit as st
 import asyncio
 import os
 from together import AsyncTogether, Together
-
+port = os.environ.get("PORT", 8501)
 # Set page configuration
 st.set_page_config(page_title="SimpleAI", page_icon="🤖", layout="wide")
 
