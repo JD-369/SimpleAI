@@ -18,7 +18,7 @@ st.markdown(
 # Sidebar for Settings
 st.sidebar.title("About")
 st.sidebar.markdown("Hiii!")
-together_api_key = "4d9d6d2dddf8c56eb92ba82a0d09be9005570d9d654c7264cc355f6f7ebf2ce5"
+
 
 # Ensure API key is set
 if together_api_key:
