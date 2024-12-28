@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: simpleai
+    env: docker
+    buildCommand: docker build -t simpleai .
+    startCommand: docker run -p $PORT:8501 simpleai
+    envVars:
+      - key: PORT
+        value: 8501
