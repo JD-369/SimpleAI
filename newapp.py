@@ -225,7 +225,7 @@ if together_api_key:
                 <strong style='color: #2E4057;'>Developed by SREEHARI</strong><br>
                 <span style='color: #6c757d;'>Contact: 
                     <a href='mailto:mesreehari23@gmail.com' style='color: #048BA8; text-decoration: none; 
-                       hover: {color: #037187};'>abcd@gmail.com</a>
+                       hover: {color: #037187};'>mesreehari23@gmail.com</a>
                 </span>
             </p>
         </div>
