@@ -1,3 +1,4 @@
-streamlit>=1.25.0
-together>=0.1.4
+streamlit
+together
 asyncio
+os
